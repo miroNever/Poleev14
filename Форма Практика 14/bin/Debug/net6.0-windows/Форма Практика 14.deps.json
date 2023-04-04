@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Форма Практика 14/1.0.0": {
+        "runtime": {
+          "Форма Практика 14.dll": {}
+        }
+      },
+      "Библиотека Практика 14/1.0.0": {
+        "runtime": {
+          "Библиотека Практика 14.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Форма Практика 14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Библиотека Практика 14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
